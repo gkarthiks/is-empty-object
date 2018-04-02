@@ -9,7 +9,8 @@
   },
   "keywords": [
     "object",
-    "empty"
+    "empty",
+    "isempty"
   ],
   "author": "Ellen Gummesson",
   "license": "MIT",
